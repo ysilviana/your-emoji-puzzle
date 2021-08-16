@@ -10,7 +10,7 @@ Your Emoji Puzzle. Game ini merupakan project yang dibuat sebagai Final Project 
     * Judul lagu: Parfait, Artist:  EspiDev ( https://soundcloud.com/espidev/parfait )
     * Judul lagu: Part Time, Artist:  Dj-VipFlash ( https://soundcloud.com/musik-remix-2002 )
 
-# Lisensi
+# License
 Lisensi 'Your Emoji Puzzle' adalah BSD license, pada bagian `sound`dan `assets`berlisensi https://creativecommons.org/licenses/by/3.0/ .
 
 # Tim Kelompok_D/Kelas C
