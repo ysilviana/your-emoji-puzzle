@@ -11,7 +11,7 @@ Your Emoji Puzzle. Game ini merupakan project yang dibuat sebagai Final Project 
     * Judul lagu: Party Time, Artist:  Dj-VipFlash ( https://soundcloud.com/musik-remix-2002 )
 
 # License
-Lisensi 'Your Emoji Puzzle' adalah BSD license, pada bagian `sound`dan `assets`berlisensi https://creativecommons.org/licenses/by/3.0/ .
+Lisensi 'Your Emoji Puzzle' adalah BSD license, pada bagian `sound`dan `assets`berlisensi [CC-BY-3](http://creativecommons.org/licenses/by/3.0/)/by/3.0/ .
 
 # Tim Kelompok_D/Kelas C
 Hilyatush Shofa, Yohana Silviana, Zuba Saidilla Puspa, Faza Salsabila, dan Cindy Dwi Kurniawaty Yusuf.
