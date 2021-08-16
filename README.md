@@ -4,7 +4,7 @@ Your Emoji Puzzle. Game ini merupakan project yang dibuat sebagai Final Project 
 # Lisensi
 Lisensi 'Your Emoji Puzzle' adalah BSD license, pada bagian `sound`dan `assets`berlisensi https://creativecommons.org/licenses/by/3.0/ .
 
-# Kontributor
+# Tim Kelompok_D/Kelas C
 Hilyatush Shofa, Yohana Silviana, Zuba Saidilla Puspa,dan Faza Salsabila.
 
 
