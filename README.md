@@ -3,15 +3,15 @@ Your Emoji Puzzle. Game ini merupakan project yang dibuat sebagai Final Project 
 
    * Tampilan awal game
 
-![Tampilan awal game](https://github.com/ysilviana/your-emoji-puzzle/blob/main/YourEmojiPuzzle-image-game/3.jpg)
+![Tampilan awal game]()
 
    * Tampilan saat game dimainkan
    
-![Tampilan saat game dimainkan](https://github.com/ysilviana/your-emoji-puzzle/blob/main/YourEmojiPuzzle-image-game/2.jpg) 
+![Tampilan saat game dimainkan]() 
 
    * Tampilan saat game selesai dimainkan
    
-![Tampilan saat game selesai dimainkan](https://github.com/ysilviana/your-emoji-puzzle/blob/main/YourEmojiPuzzle-image-game/1.jpg)
+![Tampilan saat game selesai dimainkan]()
 
 
 # Credits
