@@ -15,7 +15,7 @@ Your Emoji Puzzle. Game ini merupakan project yang dibuat sebagai Final Project 
 
 
 # Credits
-* Original code dari game ini dibuat oleh By Al Sweigart, al@inventwithpython.com ,  http://inventwithpython.com/pygame 
+* Original code dari game ini dibuat oleh Al Sweigart, al@inventwithpython.com ,  http://inventwithpython.com/pygame 
 * `assets` berupa gambar emoji dibuat oleh Seanau.com , http://www.seanau.com 
 * Berikut ini adalah artist dari `sound` musik yang digunakan sebagai background musik dalam game ini. 
     * Judul lagu: Fast Feel Banana Peel, Artist : Alexander Nakarada, https://soundcloud.com/serpentsoundstudios 
